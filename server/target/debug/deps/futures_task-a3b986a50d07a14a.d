@@ -1,0 +1,10 @@
+/Users/dmitrymolchanov/learn/magic_ball/surf-flutter-study-jam-4/server/target/debug/deps/libfutures_task-a3b986a50d07a14a.rmeta: /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/lib.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/spawn.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/future_obj.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/noop_waker.rs
+
+/Users/dmitrymolchanov/learn/magic_ball/surf-flutter-study-jam-4/server/target/debug/deps/libfutures_task-a3b986a50d07a14a.rlib: /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/lib.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/spawn.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/future_obj.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/noop_waker.rs
+
+/Users/dmitrymolchanov/learn/magic_ball/surf-flutter-study-jam-4/server/target/debug/deps/futures_task-a3b986a50d07a14a.d: /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/lib.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/spawn.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/future_obj.rs /Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/noop_waker.rs
+
+/Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/lib.rs:
+/Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/spawn.rs:
+/Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/future_obj.rs:
+/Users/dmitrymolchanov/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.31/src/noop_waker.rs:

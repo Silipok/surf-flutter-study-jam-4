@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:surf_practice_magic_ball/screen/magic_ball_screen.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:magic_8_ball/magic_ball/bloc/magic_ball_bloc.dart';
+import 'package:magic_8_ball/magic_ball/view/magic_ball_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -10,16 +12,20 @@ void main() async {
 /// App,s main widget.
 class MyApp extends StatelessWidget {
   /// Constructor for [MyApp].
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.deepPurple,
+        ),
       ),
-      home: const MagicBallScreen(),
+      home: BlocProvider(
+        create: (context) => MagicBallBloc(),
+        child: const MagicBallScreen(),
+      ),
     );
   }
 }
